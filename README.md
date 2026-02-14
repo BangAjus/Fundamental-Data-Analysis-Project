@@ -9,7 +9,7 @@ Jika kamu menggunakan **Conda**, ikuti langkah berikut untuk menyiapkan lingkung
 
 ```bash
 # Membuat environment baru
-conda create --name main-ds python=3.9
+conda create --name main-ds python=3.12
 
 # Mengaktifkan environment
 conda activate main-ds
