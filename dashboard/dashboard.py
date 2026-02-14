@@ -14,7 +14,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-main_df = pd.read_csv('main_data.csv')
+main_df = pd.read_csv('dashboard/main_data.csv')
 
 st.header('Kalkulasi Berdasarkan Metrik')
 options = ['rata-rata', 'total']
